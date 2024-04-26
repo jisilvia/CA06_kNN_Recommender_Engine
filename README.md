@@ -37,6 +37,7 @@ Download the Python File *CA06_kNN_based_Recommender_Engine* and open it in the 
 ## Authors
 
 [Silvia Ji](https://www.linkedin.com/in/silviaji/) - [GitHub](github.com/jisilvia)
+[Carlos L] (https://github.com/CllsPy)
 
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
